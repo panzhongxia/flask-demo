@@ -44,7 +44,7 @@ jobs:
         with:
           ci-owner: panzhongxia
           ci-repository: flask-demo-kustomize
-          ci-ref: refs/heads/main
+          ci-ref: refs/heads/master
           ci-user: panzhongxia
           ci-user-token: ${{ secrets.CI_TOKEN }}
           ci-name: CI
